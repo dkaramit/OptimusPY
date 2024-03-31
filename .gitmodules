@@ -1,0 +1,3 @@
+[submodule "depend/ReADPY"]
+	path = depend/ReADPY
+	url = git@github.com:dkaramit/ReADPY
